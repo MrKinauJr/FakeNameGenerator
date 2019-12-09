@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: FakeNameGenerator
+Version: 0.0.1
+Summary: a pip-installable Fake Data Generator
+Home-page: https://github.com/mrkinaujr/FakeNameGenerator
+Author: MrKinauJr
+Author-email: FakeNameGen@mrkinaujr.xyz
+License: MIT
+Description: UNKNOWN
+Keywords: Fake Data Generator
+Platform: UNKNOWN

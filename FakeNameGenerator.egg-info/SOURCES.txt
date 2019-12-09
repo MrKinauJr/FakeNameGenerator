@@ -1,0 +1,7 @@
+README.rst
+setup.py
+FakeNameGenerator/__init__.py
+FakeNameGenerator.egg-info/PKG-INFO
+FakeNameGenerator.egg-info/SOURCES.txt
+FakeNameGenerator.egg-info/dependency_links.txt
+FakeNameGenerator.egg-info/top_level.txt
