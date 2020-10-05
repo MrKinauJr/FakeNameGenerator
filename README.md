@@ -1,3 +1,3 @@
 # Fake Name Generator
 
-A useful Module when you want to generate Fake Data quickly without writing much Code!
+A useful tool to generate fake data quickly, without writing a lot of Code!
