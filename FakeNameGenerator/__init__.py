@@ -87,6 +87,3 @@ class FakeNameGenerator():
         print(f"WesternUnion :    {self.WesternUnion}")
         print(f"car :             {self.car}")
         print(f"GUID :            {self.GUID}")
-
-fake = FakeNameGenerator()
-fake.Test()
